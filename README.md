@@ -73,12 +73,3 @@ Here is the link to the data and codes for this project:
 [Data and Codes for Experimental Sessions](https://github.com/canlab/stimMAP_2022_public)
 </span>
 
-### <span style="font-family: 'Verdana'; font-size: 24px;">Description or Details About the Codes</span>
-
-<span style="font-family: 'Courier New'; font-size: 20px;">
-The repository contains task-related scripts for:
-- Task design
-- Data analysis
-- Visualization of results  
-Explore the repository for detailed information about the implementation.
-</span>
