@@ -1,6 +1,5 @@
-# stimMAP_2022_public
+# stimMAP_2022_public - Amin Dehghani
 
-# <span style="font-family: 'Arial'; font-size: 36px;">Experimental Sessions 2024 - Amin Dehghani</span>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Amindeh" alt="Amin Dehghani's GitHub Stats" />
 
