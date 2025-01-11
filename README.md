@@ -40,6 +40,7 @@ Noxious heat was delivered to two locations on the right forearm using the TSA-I
 Each run included 12 trials with randomly applied low and high heat temperatures.
 </span>
 <br><br>
+
 ### <span style="font-family: 'Verdana'; font-size: 24px;">Social Manipulation</span>
 
 <span style="font-family: 'Courier New'; font-size: 20px;">
