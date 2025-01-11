@@ -22,6 +22,7 @@ Treatment order in sessions 2-5 was randomized, with a 6-7 day interval between 
 
 <img width="601" alt="task" src="https://github.com/user-attachments/assets/7e2e4c8f-fa9f-4d92-8c7e-b4cf88f64f6c" />
 
+![image](https://github.com/user-attachments/assets/8282591a-70de-4b7d-b48e-04d5bf2de8af)
 
 </span>
 
