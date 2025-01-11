@@ -24,7 +24,6 @@ Treatment order in sessions 2-5 was randomized, with a 6-7 day interval between 
 ![image](https://github.com/user-attachments/assets/8282591a-70de-4b7d-b48e-04d5bf2de8af)
 
 </span>
-<br><br>
 
 ### <span style="font-family: 'Verdana'; font-size: 24px;">Heat Stimulations</span>
 <span style="font-family: 'Courier New'; font-size: 20px;">
