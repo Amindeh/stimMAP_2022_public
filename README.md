@@ -19,10 +19,14 @@ Participants eligible after the calibration session were invited to complete fou
 - Final questionnaire  
 Treatment order in sessions 2-5 was randomized, with a 6-7 day interval between sessions to minimize carryover effects.
 
+
 <img width="601" alt="task" src="https://github.com/user-attachments/assets/7e2e4c8f-fa9f-4d92-8c7e-b4cf88f64f6c" />
+
 ![image](https://github.com/user-attachments/assets/8282591a-70de-4b7d-b48e-04d5bf2de8af)
+
 </span>
 <br><br>
+
 ### <span style="font-family: 'Verdana'; font-size: 24px;">Heat Stimulations</span>
 <span style="font-family: 'Courier New'; font-size: 20px;">
 Noxious heat was delivered to two locations on the right forearm using the TSA-II Neurosensory Analyzer (Medoc Ltd) with a 16-mm thermode end-plate. Each session included four runs of 8-minute heat stimulations before and after the social manipulation and tDCS (8 runs total). 
