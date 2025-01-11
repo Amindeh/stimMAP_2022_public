@@ -17,7 +17,7 @@ Participants eligible after the calibration session were invited to complete fou
 - Questionnaire on the tDCS experience (3 minutes)
 - Four additional 8-minute pain tests
 - Final questionnaire  
-Treatment order in sessions 2-5 was randomized, with a 6-7 day interval between sessions to minimize carryover effects.
+Treatment order in sessions 2-5 was randomized, with a 6-7 day interval between sessions.
 
 
 <img width="601" alt="task" src="https://github.com/user-attachments/assets/7e2e4c8f-fa9f-4d92-8c7e-b4cf88f64f6c" />
